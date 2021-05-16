@@ -14,7 +14,6 @@ from qgis.core import (QgsProcessing,
                        QgsProject,
                        QgsVectorLayer,
                        QgsProcessingParameterField)
-#from qgis import processing
 from qgis.utils import iface
 from statistics import *
 
